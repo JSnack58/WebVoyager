@@ -1,2 +1,4 @@
 # WebVoyager
 Create a LLM powered agent that can interact with the browser to complete tasks.
+
+This program is best ran in Juypter Notebooks. Running this program will require API keys for LangChain, OpenAI, and Google. To run Gemini, you'll also need a Google Cloud Project ID.
